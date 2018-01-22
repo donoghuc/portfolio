@@ -32,6 +32,9 @@ This repository shows examples for a problem I posted on [Stack Overflow](https:
 ### [public_html](https://github.com/donoghuc/public_html)
 I am currently enrolled in a class at OSU called Defense Against the Dark Arts. I will be maintaining a weekly blog post that is hosted at http://web.engr.oregonstate.edu/~donoghuc (thanks for the public domain OSU!)  
 
+### [python_ocr](https://github.com/donoghuc/python_ocr)
+As described in public_html I am in a survey course at OSU about modern computer security topics. We do quite a bit of work on quarantined VMs. These VMs are configured such that there is no copy-paste functionality between local and remove machines. There are often times I would like to search for hashes/checksums or certain strings found in malware source code. I am using python and Optical Character Recognition with tesseract-ocr and openCV so I can take a screen shot of text on the VM then convert it to text. 
+
 ## Code Samples
 This section has some code samples of a diverse range of project I have worked on. I think they represent some of my growth as a developer over my acedemic and professional career. MORE TO COME! :rocket:
 
