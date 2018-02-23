@@ -8,7 +8,7 @@ Thanks for looking! :eyes:
 ![brand](images/code_or.png?raw=true "brand")
 
 ## Personal Information
-The prjects in this section were built to increase my web presense as I transition from finishing my CS degree/Internship to industry. 
+The projects in this section were built to increase my web presense as I transition from finishing my CS degree/Internship to industry. 
 I will shamelessly include a link to my [LinkedIn](https://www.linkedin.com/in/casadilla) profile here! 
 
 ### [casadilla_web](https://github.com/donoghuc/casadilla_web)
@@ -22,6 +22,9 @@ This repository is full of README files organized into directories that I store 
 
 ## Collaboration
 This section has projects meant to address specific topics with community members. :bar_chart:
+
+### [visual_web_crawler](https://github.com/donoghuc/visual_web_crawler)
+The Caelum group will be implementing a graphical web crawler. The idea is to build a web interface that allows the user to seed the crawler with a website URL they are interested in. Our back end server will start at this web location and begin crawling in either a breadth first of depth first traversal of all links discovered starting from the seed link. Information about the exploration will be logged and used to build an interactive visualization which will be presented to the user for inspection. The name group name Caelum is fitting for this project as our visualization will be reminiscent of a constellation where nodes representing visited sites are the stars! https://www.caelum.site/
 
 ### [data_discussions_r_python](https://github.com/donoghuc/data_discussions_r_py)
 I am member of the [PDX Data Science Meetup](https://www.meetup.com/Portland-Data-Science-Group/). This repo is part of a discussion about collaboration between data scientists. We detail working together in R and Python using Jupyter Notebooks and Git(hub). 
@@ -49,6 +52,9 @@ A similar project to code example 1 (same class) that uses Python and C to imple
 
 ### School Projects
 I dont really expect reviewer to get much from these projects, They are class projects that I have worked on over the years! :computer:
+
+### [windows_psutil](https://github.com/donoghuc/windows_psutil)
+This is an assignment submission for the modern software security survey class. Quite a bit of the course work examines windows OS specific exploits. This assignment (as described in repository) is designed to investigate the windows API using a programming language of choice. 
 
 ### [CS362-004-W2018](https://github.com/donoghuc/CS362-004-W2018)
 Software Engineering II (currently enrolled) repo
